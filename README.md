@@ -10,8 +10,9 @@ To install on Windows, follow these steps:
 6. Choose 'HTTPS' and copy the URL there.
 7. Go to WSL.
 8. Type in this:
-   ```bash
-   git clone```
+   ```
+   git clone
+   ```
   before the URL you had copied.
 9. Go to OneDrive.
 10. Find the folder named 'audio-plus-plus-main' and click on it.
