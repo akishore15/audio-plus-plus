@@ -27,9 +27,8 @@ To install on Linux, follow these steps:
 5. Select 'HTTPS' from 'HTTPS', 'SSH', and 'GitHub CLI.'
 6. Copy the URL posted.
 7. Maximize up Terminal.
-8. Type in ```bash
-git clone
-```
+8. Type in ```
+git clone```
 before you paste in the URL.
 9. Assuming you have a Debian based distribution of Linux, go to File Manager.
 10. Go to the folder named 'audio-plus-plus-main' and open it up.
